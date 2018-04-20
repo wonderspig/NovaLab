@@ -1,0 +1,8 @@
+com\hxshop\common\pojo\EUTreeNode.class
+com\hxshop\common\util\JsonUtils.class
+com\hxshop\common\util\CookieUtils.class
+com\hxshop\common\util\FtpUtil.class
+com\hxshop\common\util\HttpClientUtil.class
+com\hxshop\common\util\ExceptionUtil.class
+com\hxshop\common\util\IDUtils.class
+com\hxshop\common\pojo\GoBuyResult.class

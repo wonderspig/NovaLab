@@ -1,0 +1,11 @@
+com\hxshop\pojo\ContentCategory.class
+com\hxshop\pojo\Content.class
+com\hxshop\pojo\ItemDesc.class
+com\hxshop\pojo\ItemParam.class
+com\hxshop\pojo\OrderShipping.class
+com\hxshop\pojo\Item.class
+com\hxshop\pojo\OrderItem.class
+com\hxshop\pojo\User.class
+com\hxshop\pojo\ItemCat.class
+com\hxshop\pojo\ItemParamItem.class
+com\hxshop\pojo\Order.class

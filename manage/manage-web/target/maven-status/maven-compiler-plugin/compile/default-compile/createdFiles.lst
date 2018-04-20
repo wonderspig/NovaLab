@@ -1,0 +1,8 @@
+com\hxshop\controller\ContentController.class
+com\hxshop\controller\ItemParamItemController.class
+com\hxshop\controller\ItemController.class
+com\hxshop\controller\ItemCatController.class
+com\hxshop\controller\PageController.class
+com\hxshop\controller\ItemParamController.class
+com\hxshop\controller\ContentCategoryController.class
+com\hxshop\controller\PictureController.class

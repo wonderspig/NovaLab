@@ -1,0 +1,14 @@
+com\hxshop\service\ContentCategoryService.class
+com\hxshop\service\impl\ItemCatServiceImpl.class
+com\hxshop\service\impl\PictureServiceImpl.class
+com\hxshop\service\ItemParamItemService.class
+com\hxshop\service\impl\ItemParamServiceImpl.class
+com\hxshop\service\impl\ContentCategoryServiceImpl.class
+com\hxshop\service\ItemParamService.class
+com\hxshop\service\ItemService.class
+com\hxshop\service\impl\ItemParamItemServiceImpl.class
+com\hxshop\service\ItemCatService.class
+com\hxshop\service\impl\ContentServiceImpl.class
+com\hxshop\service\PictureService.class
+com\hxshop\service\impl\ItemServiceImpl.class
+com\hxshop\service\ContentService.class

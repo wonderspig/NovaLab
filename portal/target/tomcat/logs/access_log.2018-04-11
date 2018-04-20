@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:17 +0800] "GET / HTTP/1.1" 200 109437 http-bio-8082-exec-5 306
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:17 +0800] "GET /js/taotao.js HTTP/1.1" 200 661 http-bio-8082-exec-5 114
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:17 +0800] "GET /images/gobuy-logo.jpg HTTP/1.1" 200 5857 http-bio-8082-exec-2 171
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:17 +0800] "GET /images/20130725.png HTTP/1.1" 200 275 http-bio-8082-exec-5 69
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:17 +0800] "GET /images/20130330A_2.png HTTP/1.1" 200 8252 http-bio-8082-exec-1 1
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:18 +0800] "GET /images/5440ce68Na00d019e.jpg HTTP/1.1" 200 10107 http-bio-8082-exec-5 1
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:18 +0800] "GET /images/blank.gif HTTP/1.1" 200 49 http-bio-8082-exec-1 1
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:18 +0800] "GET /images/20130330C.png HTTP/1.1" 200 6900 http-bio-8082-exec-6 1
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:18 +0800] "GET /images/20130330B_1.png HTTP/1.1" 200 4620 http-bio-8082-exec-1 1
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:18 +0800] "GET /images/loading-jd.gif HTTP/1.1" 200 166 http-bio-8082-exec-2 1
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:18 +0800] "GET /images/virtuals-20140606.png HTTP/1.1" 200 3316 http-bio-8082-exec-7 2
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:18 +0800] "GET /images/error-jd.gif HTTP/1.1" 200 346 http-bio-8082-exec-7 1
+0:0:0:0:0:0:0:1 - - [11/Apr/2018:12:58:18 +0800] "GET /images/543b4d75N686689d7.jpg HTTP/1.1" 200 10963 http-bio-8082-exec-7 1

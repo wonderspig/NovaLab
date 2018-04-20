@@ -1,0 +1,11 @@
+com\hxshop\mapper\OrderShippingMapper.class
+com\hxshop\mapper\ContentCategoryMapper.class
+com\hxshop\mapper\UserMapper.class
+com\hxshop\mapper\ContentMapper.class
+com\hxshop\mapper\ItemCatMapper.class
+com\hxshop\mapper\ItemMapper.class
+com\hxshop\mapper\ItemDescMapper.class
+com\hxshop\mapper\OrderMapper.class
+com\hxshop\mapper\ItemParamItemMapper.class
+com\hxshop\mapper\ItemParamMapper.class
+com\hxshop\mapper\OrderItemMapper.class

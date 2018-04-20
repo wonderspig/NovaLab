@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+        <module name="manage-dao" />
+        <module name="manage-pojo" />
+        <module name="manage-service" />
+        <module name="manage-web" />
+        <module name="portal" />
+        <module name="rest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
+      <module name="hxShow" target="1.8" />
+      <module name="manage" target="1.8" />
+      <module name="manage-dao" target="1.8" />
+      <module name="manage-pojo" target="1.8" />
+      <module name="manage-service" target="1.8" />
+      <module name="manage-web" target="1.8" />
+      <module name="portal" target="1.8" />
+      <module name="rest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

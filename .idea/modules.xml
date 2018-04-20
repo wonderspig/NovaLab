@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hxShow.iml" filepath="$PROJECT_DIR$/hxShow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage.iml" filepath="$PROJECT_DIR$/manage/manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage-dao/manage-dao.iml" filepath="$PROJECT_DIR$/manage/manage-dao/manage-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage-pojo/manage-pojo.iml" filepath="$PROJECT_DIR$/manage/manage-pojo/manage-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage-service/manage-service.iml" filepath="$PROJECT_DIR$/manage/manage-service/manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage-web/manage-web.iml" filepath="$PROJECT_DIR$/manage/manage-web/manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portal/portal.iml" filepath="$PROJECT_DIR$/portal/portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest/rest.iml" filepath="$PROJECT_DIR$/rest/rest.iml" />
+    </modules>
+  </component>
+</project>
